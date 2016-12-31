@@ -66,3 +66,4 @@ E:\programing\Web-Crypter\Web-Crypter\bin\Microsoft.Owin.Security.Twitter.xml
 E:\programing\Web-Crypter\Web-Crypter\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 E:\programing\Web-Crypter\Web-Crypter\obj\Debug\Web-Crypter.dll
 E:\programing\Web-Crypter\Web-Crypter\obj\Debug\Web-Crypter.pdb
+E:\programing\Web-Crypter\Web-Crypter\obj\Debug\Web-Crypter.csprojResolveAssemblyReference.cache
